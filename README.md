@@ -39,6 +39,7 @@ All output is printed to the console, making this a safe, focused environment fo
 ## Project Structure
 
 ```
+.
 src
 ├── main-game.ts
 ├── games
